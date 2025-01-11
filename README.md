@@ -1,5 +1,7 @@
 # React Weather Application
 
+---
+
 ## Overview
 This is a React-based weather application that provides the following features:
 
@@ -12,18 +14,18 @@ This is a React-based weather application that provides the following features:
 
 ## Features
 
-### NavBar Component
+#### NavBar Component
 - Displays links such as Home, Blogs, Map, Photos, Videos, and Phone.
 - Includes an option to Log out.
 - Utilizes **Ionicons** for intuitive icons next to each link.
 
-### Header Component
+#### Header Component
 - Displays the selected city (or a default message if no city is selected).
 - Includes an input field to search for a city.
 - Allows the user to press `Enter` to search and set a new city.
 - Displays additional icons such as Weather, Calendar, and Notifications.
 
-### Weather Data Fetching
+#### Weather Data Fetching
 - **Axios** is used to fetch data from the OpenWeatherMap API.
 - Fetches temperature, high, low, and weather descriptions for multiple cities.
 - Handles API errors, including invalid API keys and non-existent cities.
@@ -34,11 +36,11 @@ This is a React-based weather application that provides the following features:
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/therealdope/Weather_Website
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd Weather_Website
    ```
 3. Install dependencies (select -> react + java script):
    ```bash
@@ -48,7 +50,7 @@ This is a React-based weather application that provides the following features:
     ```bash
     npm install axios
     ```
-
+5. Genetare API_KEY on `https://openweathermap.org/` and insert it in `api.jsx` file.
 ---
 
 ## Usage
@@ -70,7 +72,7 @@ This is a React-based weather application that provides the following features:
 
 ## Dependencies
 
-- **vite**: java script tool to create web-Application.
+- **vite**: Java script tool to create web-Application.
 - **Axios**: For API requests.
 - **Ionicons**: For icons.
 
