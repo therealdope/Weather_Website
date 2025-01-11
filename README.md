@@ -1,5 +1,7 @@
 # React Weather Application
 
+![WeatherISgood](https://github.com/therealdope/Weather_Website/blob/main/src/assets/Weather_Website.png)
+
 ---
 
 ## Overview
@@ -109,4 +111,4 @@ Directory structure:
 1. Add more features to the weather data, such as wind speed and humidity.
 2. Implement user authentication for personalized experiences.
 3. Improve styling and responsiveness.
-4. Usage of Navigation Bar Dynamically.# Weather_Website
+4. Usage of Navigation Bar Dynamically.
