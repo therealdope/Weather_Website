@@ -66,6 +66,32 @@ This is a React-based weather application that provides the following features:
 
 ## Project Structure
 ```
+Directory structure:
+└── therealdope-Weather_Website/
+    ├── README.md
+    ├── eslint.config.js
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    ├── public/
+    └── src/
+        ├── App.jsx
+        ├── index.css
+        ├── main.jsx
+        ├── API/
+        │   └── api.jsx
+        ├── assets/
+        └── components/
+            ├── Dashboard/
+            │   ├── Dashboard.css
+            │   └── Dashboard.jsx
+            ├── Header/
+            │   ├── Header.css
+            │   └── Header.jsx
+            └── NavBar/
+                ├── NavBar.css
+                └── NavBar.jsx
+
 ```
 
 ---
