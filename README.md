@@ -1,8 +1,5 @@
 # React Weather Application
 
-
-
-## 🌍 Live Website
 [![🌤️ LINK](https://img.shields.io/badge/🌤️-Visit%20Website-blue)](https://weather-website-skheni.vercel.app)
 
 
